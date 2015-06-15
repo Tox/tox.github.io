@@ -1,4 +1,4 @@
-# Blog
+# [Blog](http://tox.github.io/blog/index.html)
 
 This is the directory for the Tox Engineering Blog. If you would like to make a
 change or add a post, please open a pull request for it to be reviewed.

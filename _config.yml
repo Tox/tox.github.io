@@ -2,8 +2,6 @@
 title: Tox Blog
 email: irungentoo@gmail.com
 description: A new kind of Instant Messaging
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-source: "blog"
 url: "http://tox.github.io" # the base hostname & protocol for your site
 twitter_username:
 github_username: Tox
